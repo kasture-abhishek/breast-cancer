@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 📊 Breast Cancer Prediction — Logistic Regression
 
 This project builds a Logistic Regression model to predict whether a breast tumor is benign or malignant using the breast cancer dataset. It includes data preprocessing, feature selection using correlation analysis, model training, evaluation with multiple metrics, and visualization of results.
@@ -42,4 +43,5 @@ python breast-cancer.py
 🎯 Objective
 
 To demonstrate an end-to-end machine learning workflow for classification using Logistic Regression.
+=======
 =======
